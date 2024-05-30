@@ -1,0 +1,14 @@
+.row {
+  display: flex;
+  flex-wrap: nowrap; 
+  overflow-x: scroll; 
+  scrollbar-width: none;
+  padding: 0;
+}
+.subtitle {
+  color: black;
+  text-align: left;
+  margin-left: 10px;
+  color: #f0dcf0;
+  font-family: 'Nunito'
+}

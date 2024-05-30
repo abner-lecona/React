@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem 0;
+    font-family: 'HBO Max', sans-serif;
+    color: white;
+    font-size: 70px;
+    font-size: 5rem;
+  background: linear-gradient(40deg, #28003c, #28003c, #f0dcf0, #f0dcf0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
+}
+
